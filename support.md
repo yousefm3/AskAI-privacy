@@ -33,7 +33,7 @@ ManualAI is an innovative app that allows you to easily create and share QR code
 
 ## Contact Us
 
-Have questions or need assistance? We're here to help. Please reach out to our support team at [support@email.com](AIAssist.official@gmail.com).
+Have questions or need assistance? We're here to help. Please reach out to our support team at [AIAssist.official@gmail.com](AIAssist.official@gmail.com).
 
 
 
