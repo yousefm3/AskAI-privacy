@@ -21,7 +21,7 @@ ManualAI is an innovative app that allows you to easily create and share QR code
 
 1. Open ManualAI.
 2. Create a new QR code for your product's manual.
-3. Customize the code with a description for easy identification.
+3. Attach it with your products.
 4. Share the code with your customers.
 
 ### For Customers
